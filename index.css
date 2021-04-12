@@ -1,0 +1,12 @@
+body {
+    max-width: 980px;
+    margin: auto;
+    background: rgb(157, 196, 18);
+}
+.geografic {
+    border: solid;
+}
+h1 {
+ background: linear-gradient(90deg, rgb(17, 26, 141), white);
+ color: white;
+}
